@@ -1,22 +1,22 @@
 # Introduction Python
 
-The purpose of this project is to setup and run basic python application.
+This approach will test my skill on how to setup DJango framework. Read the documentation on how to use this simple Django application.
 
+**Contents**
   - Clone repository
   - Migrate the migration
   - Run the python app server
 
-# New Features!
+# Basic Features
 
   - Django default files only
   - Django default homepage only.
-
-
-The purpose of this project:
-  - Is to allow me setup the basic of Django.
-  - To familiarise the Python community and how it works.
-  - Career advancement to python and it's usage.
-
+  
+# Purpose  
+  - To allow me setup and run the basic of Django.
+  - To familiarize the Python Django and how it works.
+  - Career advancement
+  
 # Usage
 
 ### clone the repository
