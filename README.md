@@ -1,4 +1,4 @@
-# Introduction Python
+# Introduction to Python
 
 This approach will test my skill on how to setup DJango framework. Read the documentation on how to use this simple Django application.
 
